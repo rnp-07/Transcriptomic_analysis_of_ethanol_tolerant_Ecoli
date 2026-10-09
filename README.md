@@ -8,6 +8,9 @@ The parental strain(W105F) was actually an engineered strain where a synthetic o
 ## Sample Design:
 For transcriptomic analysis, the sample design consisted of 3 biological replicates of each of the two conditions: 3 biological replicates of parental strain and 3 biological replicates of evolved strain.  All of the replicates were initially pre-cultured in LB (Lysogeny Broth)+4% lactose. Then, they were grown into pellets in fermentation medium (Concentrated Whey Permeate with PIPES and ammonium sulphate) before being subjected for RNA sequencing. RNA sequencing was done using NovaSeq X Illumina with 2*150bp paired end format meaning that two paired end reads were generated from each strand and the read length was targeted to be 150bp long.
 
+### *Note on Data availability:*
+*Due to file size constraints on GitHub, the raw, paired-end FASTQ files including the intermediate bam files which are larger than Github's allowed size are not uploaded in this repository. The scripts used for this analysis including the outputs (and the inputs provided they fall within the size limit) are provided here.*
+
 # Pipeline
 
 <p align="center">
