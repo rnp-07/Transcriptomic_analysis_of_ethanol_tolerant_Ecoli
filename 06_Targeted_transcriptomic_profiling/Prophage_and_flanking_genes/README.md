@@ -1,0 +1,11 @@
+# Transcriptomic analysis of prophage region
+As mentioned earlier, the genomic analysis had shown the deletion of a nearly 36 kb prophage locus. To confirm this from the transcriptomic study, the normalized counts of the prophage genes (*WFL_RS28210* to *WFL_RS25495*) including their immediate neighbors (*rcdA* and *ybjL*) were evaluated. DESeq2-normalized counts were sufficient for this analysis (rather than Transcripts Per Million, TPM), as the objective was to compare the expression of individual genes across different samples rather than comparing different genes within the same sample. 
+
+The xlsx file (`Prophage_counts.xlsx`) contains the normalized counts of those genes in parental samples (`Pr_2` and `Pr_3`) and evolved samples (`Ev_1`, `Ev_2` and `Ev_3`) along with $\log_2\text{fc}$ and $p_\text{adj}$ values. 
+
+In the parental replicates (`Pr_2` and `Pr_3`), genes located within the prophage region (`WFL_RS28210` to `WFL_RS25495`) showed active baseline transcription, with several genes exhibiting thousands of normalized reads (e.g., *WFL_RS04695* had $10,628.54$ and $10,739.17$ normalized counts in parent replicates).
+In contrast, normalized counts for these exact same genes dropped to zero or near-zero across all evolved replicates with statistically significant adjusted p-values (e.g., *WFL_RS04695* dropped to $0.00$, $0.00$, and $1.09$, yielding $\log_2\text{fc} = -14.60$ and $p_{\text{adj}} = 8.79 \times 10^{-42})$. 
+
+This complete loss of gene expression validates the physical deletion of the prophage region previously detected by genomic sequencing. This likely suggests that this viral DNA was not essential, and shedding this probably provided a survival advantage under ethanol stress by reducing overall metabolic burden and/or silencing potential lysis-related genes.
+
+Of the two immediate neighbors, the upstream neighbor (*rcdA*) did not show a significant change in gene expression level $(\log_2\text{FC} = 0.22, ~p_{\text{adj}} = 0.779)$, while the downstream neighbor (*ybjL*), which encodes a putative integral inner membrane protein, showed a statistically significant downregulation in the evolved strain $(\log_2\text{FC} = -0.66, ~p_{\text{adj}} = 0.0002)$.

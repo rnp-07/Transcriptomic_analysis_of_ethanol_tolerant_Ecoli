@@ -1,0 +1,971 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent; color-scheme: light dark;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1841px" height="1483px" viewBox="0 0 1841 1483" id="ge-svg-1bv8S11jylKzmAzozpba" content="&lt;mxfile&gt;&lt;diagram id=&quot;c9vXWxxX49G5TE_oe82h&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <style type="text/css">
+        @supports (color: light-dark(#000, #fff)) { #ge-svg-1bv8S11jylKzmAzozpba { --ge-adaptive-bg: light-dark(#ffffff, var(--ge-dark-color, #121212)); } }
+    </style>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_ffffff_121212_-1-light-dark_679695_557e7d_-1-s-0">
+            <stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" style="stop-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); stop-opacity: 1;"/>
+            <stop offset="100%" stop-color="#679695" stop-opacity="1" style="stop-color: light-dark(rgb(103, 150, 149), rgb(85, 126, 125)); stop-opacity: 1;"/>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_f5f5f5_1a1a1a_-1-light-dark_9c676f_ae8087_-1-s-0">
+            <stop offset="0%" stop-color="#f5f5f5" stop-opacity="1" style="stop-color: light-dark(rgb(245, 245, 245), rgb(26, 26, 26)); stop-opacity: 1;"/>
+            <stop offset="100%" stop-color="#9C676F" stop-opacity="1" style="stop-color: light-dark(rgb(156, 103, 111), rgb(174, 128, 135)); stop-opacity: 1;"/>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_fcfcfc_141414_-1-light-dark_59739d_788fb3_-1-s-0">
+            <stop offset="0%" stop-color="#FCFCFC" stop-opacity="1" style="stop-color: light-dark(rgb(252, 252, 252), rgb(20, 20, 20)); stop-opacity: 1;"/>
+            <stop offset="100%" stop-color="#59739D" stop-opacity="1" style="stop-color: light-dark(rgb(89, 115, 157), rgb(120, 143, 179)); stop-opacity: 1;"/>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_ffffff_121212_-1-light-dark_77a660_4f783b_-1-s-0">
+            <stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" style="stop-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); stop-opacity: 1;"/>
+            <stop offset="100%" stop-color="#77A660" stop-opacity="1" style="stop-color: light-dark(rgb(119, 166, 96), rgb(79, 120, 59)); stop-opacity: 1;"/>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_f8f8f8_181818_-1-light-dark_8e5f9a_ab83b5_-1-s-0">
+            <stop offset="0%" stop-color="#F8F8F8" stop-opacity="1" style="stop-color: light-dark(rgb(248, 248, 248), rgb(24, 24, 24)); stop-opacity: 1;"/>
+            <stop offset="100%" stop-color="#8E5F9A" stop-opacity="1" style="stop-color: light-dark(rgb(142, 95, 154), rgb(171, 131, 181)); stop-opacity: 1;"/>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_fafafa_161616_-1-light-dark_9696aa_6a6a7b_-1-s-0">
+            <stop offset="0%" stop-color="#FAFAFA" stop-opacity="1" style="stop-color: light-dark(rgb(250, 250, 250), rgb(22, 22, 22)); stop-opacity: 1;"/>
+            <stop offset="100%" stop-color="#9696AA" stop-opacity="1" style="stop-color: light-dark(rgb(150, 150, 170), rgb(106, 106, 123)); stop-opacity: 1;"/>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_fffdf6_16140e_-1-light-dark_a18a40_8a7737_-1-s-0">
+            <stop offset="0%" stop-color="#FFFDF6" stop-opacity="1" style="stop-color: light-dark(rgb(255, 253, 246), rgb(22, 20, 14)); stop-opacity: 1;"/>
+            <stop offset="100%" stop-color="#A18A40" stop-opacity="1" style="stop-color: light-dark(rgb(161, 138, 64), rgb(138, 119, 55)); stop-opacity: 1;"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <g data-cell-id="0">
+            <g data-cell-id="1">
+                <g data-cell-id="lNQjz85hGxwGbOLGJjPa-1">
+                    <g/>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-14">
+                        <g>
+                            <rect x="9.5" y="541.5" width="814" height="301" rx="45.15" ry="45.15" fill="url(#drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_ffffff_121212_-1-light-dark_679695_557e7d_-1-s-0)" stroke="#679695" stroke-width="4" pointer-events="all" style="fill: url(&quot;#drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_ffffff_121212_-1-light-dark_679695_557e7d_-1-s-0&quot;); stroke: light-dark(rgb(103, 150, 149), rgb(85, 126, 125));"/>
+                        </g>
+                        <g>
+                            <g>
+                                <switch>
+                                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 812px; height: 1px; padding-top: 549px; margin-left: 11px;">
+                                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                                <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                    <b>
+                                                        <span style="color: light-dark(rgb(35, 47, 46), rgb(191, 201, 200)); font-size: 23px;">
+                                                            4. Read Quantification &amp; Filtering
+                                                        </span>
+                                                    </b>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </foreignObject>
+                                    <text x="417" y="565" fill="#000000" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                                        4. Read Quantification &amp; Filtering
+                                    </text>
+                                </switch>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-15">
+                            <g>
+                                <rect x="44.5" y="586.5" width="302" height="115.5" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 300px; height: 1px; padding-top: 644px; margin-left: 46px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            featureCounts (Rsubread v2.22.1)
+                                                            <br/>
+                                                            ("Gene" &amp; "Pseudogene" Counts)
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="196" y="640" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="196" y="640">
+                                                featureCounts (Rsubread v2.22.1)
+                                            </tspan>
+                                            <tspan x="196" y="659">
+                                                ("Gene" &amp; "Pseudogene" Counts)
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-16">
+                            <g>
+                                <rect x="396.5" y="586.5" width="392" height="93" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 390px; height: 1px; padding-top: 633px; margin-left: 398px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            SAMtools v1.22.1 (Unmapped Read Extraction)
+                                                            <br/>
+                                                            &amp; Alignment to Operon
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="593" y="628" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="593" y="628">
+                                                SAMtools v1.22.1 (Unmapped Read Extraction)
+                                            </tspan>
+                                            <tspan x="593" y="647">
+                                                &amp; Alignment to Operon
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-17">
+                            <g>
+                                <rect x="395.5" y="724.5" width="229" height="115.5" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 227px; height: 1px; padding-top: 782px; margin-left: 397px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            Count Matrix Merging &amp;
+                                                            <br/>
+                                                            ncRNA Biotype Filtering
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="510" y="778" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="510" y="778">
+                                                Count Matrix Merging &amp;
+                                            </tspan>
+                                            <tspan x="510" y="797">
+                                                ncRNA Biotype Filtering
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-18">
+                            <g transform="translate(0.5,0.5)">
+                                <path d="M 195.5 702 L 195.5 719.5 L 382.27 744.66" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                                <path d="M 392.18 746 L 381.6 749.62 L 382.93 739.71 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-19">
+                            <g transform="translate(0.5,0.5)">
+                                <path d="M 592.5 679.5 L 559.67 716.17" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                                <path d="M 553 723.62 L 555.94 712.83 L 563.39 719.5 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-2">
+                        <g>
+                            <rect x="411.5" y="9.5" width="1148" height="143" rx="21.45" ry="21.45" fill="url(#drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_f5f5f5_1a1a1a_-1-light-dark_9c676f_ae8087_-1-s-0)" stroke="#b37981" stroke-width="4" pointer-events="all" style="fill: url(&quot;#drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_f5f5f5_1a1a1a_-1-light-dark_9c676f_ae8087_-1-s-0&quot;); stroke: light-dark(rgb(179, 121, 129), rgb(149, 149, 149));"/>
+                        </g>
+                        <g>
+                            <g>
+                                <switch>
+                                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 1146px; height: 1px; padding-top: 17px; margin-left: 413px;">
+                                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                                <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                    <b>
+                                                        <span style="color: light-dark(rgb(103, 75, 81), rgb(186, 162, 168)); font-size: 23px;">
+                                                            1. Input Data &amp; Metadata
+                                                        </span>
+                                                    </b>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </foreignObject>
+                                    <text x="986" y="33" fill="#000000" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                                        1. Input Data &amp; Metadata
+                                    </text>
+                                </switch>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-4">
+                            <g>
+                                <rect x="439.62" y="46.5" width="172.72" height="86" fill="#ffffff" stroke="#000000" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 171px; height: 1px; padding-top: 90px; margin-left: 441px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            E. coli W Ref Genome
+                                                            <br/>
+                                                            (FASTA + GFF)
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="526" y="85" fill="#000000" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                                            <tspan x="526" y="85">
+                                                E. coli W Ref Genome
+                                            </tspan>
+                                            <tspan x="526" y="104">
+                                                (FASTA + GFF)
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-5">
+                            <g>
+                                <rect x="741.5" y="50.5" width="194.59" height="86" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 193px; height: 1px; padding-top: 94px; margin-left: 743px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            Synthetic Operon
+                                                            <br/>
+                                                            (pdc &amp; adhB Sequence)
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="839" y="89" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="839" y="89">
+                                                Synthetic Operon
+                                            </tspan>
+                                            <tspan x="839" y="108">
+                                                (pdc &amp; adhB Sequence)
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-6">
+                        <g>
+                            <rect x="1487.5" y="210.5" width="343" height="291" rx="43.65" ry="43.65" fill="url(#drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_fcfcfc_141414_-1-light-dark_59739d_788fb3_-1-s-0)" stroke="#6c8ebf" stroke-width="4" pointer-events="all" style="fill: url(&quot;#drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_fcfcfc_141414_-1-light-dark_59739d_788fb3_-1-s-0&quot;); stroke: light-dark(rgb(108, 142, 191), rgb(92, 121, 163));"/>
+                        </g>
+                        <g>
+                            <g>
+                                <switch>
+                                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 341px; height: 1px; padding-top: 218px; margin-left: 1489px;">
+                                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                                <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                    <b style="color: light-dark(rgb(0, 75, 110), rgb(132, 196, 226));">
+                                                        <span style="font-size: 23px;">
+                                                            2. Read Trimming &amp; QC (nf-core/rnaseq v3.21.0)
+                                                        </span>
+                                                    </b>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </foreignObject>
+                                    <text x="1659" y="234" fill="#000000" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                                        <tspan x="1659" y="234">
+                                            2. Read Trimming &amp; QC (nf-core/rnaseq
+                                        </tspan>
+                                        <tspan x="1659" y="253">
+                                            v3.21.0)
+                                        </tspan>
+                                    </text>
+                                </switch>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-7">
+                            <g>
+                                <rect x="1522.5" y="293.5" width="272" height="86" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 270px; height: 1px; padding-top: 337px; margin-left: 1524px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            FastQC &amp; TrimGalore
+                                                            <br/>
+                                                            (Adapter &amp; Quality Trimming)
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="1659" y="332" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="1659" y="332">
+                                                FastQC &amp; TrimGalore
+                                            </tspan>
+                                            <tspan x="1659" y="351">
+                                                (Adapter &amp; Quality Trimming)
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-8">
+                            <g>
+                                <rect x="1541.5" y="419.5" width="254" height="73" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 252px; height: 1px; padding-top: 456px; margin-left: 1543px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="">
+                                                            <span style="font-size: 24px;">
+                                                                MultiQC Report
+                                                            </span>
+                                                            <br/>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="1669" y="451" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="1669" y="451">
+                                                MultiQC Report
+                                            </tspan>
+                                            <tspan x="1669" y="470"></tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-9">
+                            <g transform="translate(0.5,0.5)">
+                                <path d="M 1671.28 379.16 L 1671.12 404.15" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                                <path d="M 1671.06 414.15 L 1666.13 404.11 L 1676.12 404.18 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-10">
+                        <g>
+                            <rect x="843.5" y="358.5" width="572" height="336" rx="50.4" ry="50.4" fill="url(#drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_ffffff_121212_-1-light-dark_77a660_4f783b_-1-s-0)" stroke="#93c872" stroke-width="4" pointer-events="all" style="fill: url(&quot;#drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_ffffff_121212_-1-light-dark_77a660_4f783b_-1-s-0&quot;); stroke: light-dark(rgb(147, 200, 114), rgb(49, 95, 21));"/>
+                        </g>
+                        <g>
+                            <g>
+                                <switch>
+                                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 570px; height: 1px; padding-top: 366px; margin-left: 845px;">
+                                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                                <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                    <b style="color: light-dark(rgb(6, 78, 59), rgb(137, 199, 183));">
+                                                        <span style="font-size: 23px;">
+                                                            3. Alignment &amp; Post-Mapping QC
+                                                        </span>
+                                                    </b>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </foreignObject>
+                                    <text x="1130" y="382" fill="#000000" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                                        3. Alignment &amp; Post-Mapping QC
+                                    </text>
+                                </switch>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-11">
+                            <g>
+                                <rect x="992.5" y="397.5" width="235" height="93" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 233px; height: 1px; padding-top: 444px; margin-left: 994px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            align (Rsubread v2.22.1)
+                                                            <br/>
+                                                            (Genome Alignment)
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="1110" y="439" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="1110" y="439">
+                                                align (Rsubread v2.22.1)
+                                            </tspan>
+                                            <tspan x="1110" y="458">
+                                                (Genome Alignment)
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-12">
+                            <g>
+                                <rect x="878.5" y="567.5" width="502" height="115.5" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 500px; height: 1px; padding-top: 625px; margin-left: 880px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            RSeQC Suite (v5.0.4)
+                                                            <br/>
+                                                            (infer_experiment.py, geneBody_coverage.py,
+                                                            <br/>
+                                                            inner_distance.py, read_distribution.py, read_duplication.py)
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="1130" y="611" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="1130" y="611">
+                                                RSeQC Suite (v5.0.4)
+                                            </tspan>
+                                            <tspan x="1130" y="630">
+                                                (infer_experiment.py, geneBody_coverage.py,
+                                            </tspan>
+                                            <tspan x="1130" y="649">
+                                                inner_distance.py, read_distribution.py, read_duplication.py)
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-13">
+                            <g transform="translate(0.5,0.5)">
+                                <path d="M 1121.75 490.5 L 1122.35 555.19" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                                <path d="M 1122.44 565.19 L 1117.35 555.23 L 1127.35 555.14 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-36">
+                            <g transform="translate(0.5,0.5)">
+                                <path d="M 992.5 459.82 L 631.9 459.82 L 511.9 459.82 L 229.5 457.5 L 229.5 573.15" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                                <path d="M 229.5 583.15 L 224.5 573.15 L 234.5 573.15 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-20">
+                        <g>
+                            <rect x="666.5" y="877.5" width="514" height="404" rx="60.6" ry="60.6" fill="url(#drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_f8f8f8_181818_-1-light-dark_8e5f9a_ab83b5_-1-s-0)" stroke="#ec93ff" stroke-width="4" pointer-events="all" style="fill: url(&quot;#drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_f8f8f8_181818_-1-light-dark_8e5f9a_ab83b5_-1-s-0&quot;); stroke: light-dark(rgb(236, 147, 255), rgb(142, 65, 158));"/>
+                        </g>
+                        <g>
+                            <g>
+                                <switch>
+                                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 512px; height: 1px; padding-top: 885px; margin-left: 668px;">
+                                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                                <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                    <b style="color: light-dark(rgb(76, 29, 149), rgb(220, 180, 255));">
+                                                        <span style="font-size: 23px;">
+                                                            5. Differential Expression Analysis (DESeq2 v1.48.1)
+                                                        </span>
+                                                    </b>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </foreignObject>
+                                    <text x="924" y="901" fill="#000000" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                                        5. Differential Expression Analysis (DESeq2 v1.48.1)
+                                    </text>
+                                </switch>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-21">
+                            <g>
+                                <rect x="703.75" y="942.69" width="439.51" height="114.09" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 438px; height: 1px; padding-top: 1000px; margin-left: 705px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            Exploratory QC
+                                                            <br/>
+                                                            (PCA, Sample Distance Heatmap,
+                                                            <br/>
+                                                            Normalized counts profile, Housekeeping profile)
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="924" y="986" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="924" y="986">
+                                                Exploratory QC
+                                            </tspan>
+                                            <tspan x="924" y="1005">
+                                                (PCA, Sample Distance Heatmap,
+                                            </tspan>
+                                            <tspan x="924" y="1024">
+                                                Normalized counts profile, Housekeeping profile)
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-22">
+                            <g>
+                                <rect x="793.14" y="1078.02" width="259.66" height="84.95" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 258px; height: 1px; padding-top: 1120px; margin-left: 794px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            Outlier Exclusion
+                                                            <br/>
+                                                            (Pr_1 Replicate Removed)
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="923" y="1116" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="923" y="1116">
+                                                Outlier Exclusion
+                                            </tspan>
+                                            <tspan x="923" y="1135">
+                                                (Pr_1 Replicate Removed)
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-23">
+                            <g>
+                                <rect x="771.85" y="1184.7" width="321.38" height="96.8" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 319px; height: 1px; padding-top: 1233px; margin-left: 773px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            Final DE Testing (5 Samples)
+                                                            <br/>
+                                                            (including Exploratory analysis)
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="933" y="1228" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="933" y="1228">
+                                                Final DE Testing (5 Samples)
+                                            </tspan>
+                                            <tspan x="933" y="1247">
+                                                (including Exploratory analysis)
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-24">
+                            <g transform="translate(0.5,0.5)">
+                                <path d="M 923.5 1056.78 Q 923.5 1056.78 923.3 1064.67" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                                <path d="M 923.05 1074.67 L 918.3 1064.54 L 928.3 1064.79 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-25">
+                            <g transform="translate(0.5,0.5)">
+                                <path d="M 922.97 1162.97 Q 922.97 1162.97 922.94 1172.12" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                                <path d="M 922.91 1182.12 L 917.94 1172.1 L 927.94 1172.13 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-26">
+                        <g>
+                            <rect x="721.5" y="1311.5" width="999" height="160.5" rx="24.07" ry="24.07" fill="url(#drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_fafafa_161616_-1-light-dark_9696aa_6a6a7b_-1-s-0)" stroke="#bcbcd5" stroke-width="4" pointer-events="all" style="fill: url(&quot;#drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_fafafa_161616_-1-light-dark_9696aa_6a6a7b_-1-s-0&quot;); stroke: light-dark(rgb(188, 188, 213), rgb(72, 72, 93));"/>
+                        </g>
+                        <g>
+                            <g>
+                                <switch>
+                                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 997px; height: 1px; padding-top: 1319px; margin-left: 723px;">
+                                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                                <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                    <b>
+                                                        <span style="color: light-dark(rgb(72, 72, 83), rgb(174, 174, 183)); font-size: 23px;">
+                                                            6. Targeted Transcriptomic Profiling
+                                                        </span>
+                                                    </b>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </foreignObject>
+                                    <text x="1221" y="1335" fill="#000000" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                                        6. Targeted Transcriptomic Profiling
+                                    </text>
+                                </switch>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-27">
+                            <g>
+                                <rect x="1440.5" y="1360.5" width="245" height="84.95" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 243px; height: 1px; padding-top: 1403px; margin-left: 1442px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            TPM Counts
+                                                            <br/>
+                                                            (pdc, adhB, mutated loci)
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="1563" y="1398" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="1563" y="1398">
+                                                TPM Counts
+                                            </tspan>
+                                            <tspan x="1563" y="1417">
+                                                (pdc, adhB, mutated loci)
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-28">
+                            <g>
+                                <rect x="1085.5" y="1362.5" width="305" height="84.95" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 303px; height: 1px; padding-top: 1405px; margin-left: 1087px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            Opposite-Strand Specific Counting
+                                                            <br/>
+                                                            (waaV Read-Through Test)
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="1238" y="1400" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="1238" y="1400">
+                                                Opposite-Strand Specific Counting
+                                            </tspan>
+                                            <tspan x="1238" y="1419">
+                                                (waaV Read-Through Test)
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-29">
+                            <g>
+                                <rect x="756.5" y="1356.5" width="305" height="96.8" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 303px; height: 1px; padding-top: 1405px; margin-left: 758px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            Prophage Deletion Verification
+                                                            <br/>
+                                                            &amp; Impact on Flanking genes
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="909" y="1400" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="909" y="1400">
+                                                Prophage Deletion Verification
+                                            </tspan>
+                                            <tspan x="909" y="1419">
+                                                &amp; Impact on Flanking genes
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-30">
+                        <g>
+                            <rect x="41.5" y="1311.5" width="660" height="143" rx="21.45" ry="21.45" fill="url(#drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_fffdf6_16140e_-1-light-dark_a18a40_8a7737_-1-s-0)" stroke="#ffd966" stroke-width="4" pointer-events="all" style="fill: url(&quot;#drawio-svg-BM7KJljn4FGVxXLBnHlw-gradient-light-dark_fffdf6_16140e_-1-light-dark_a18a40_8a7737_-1-s-0&quot;); stroke: light-dark(rgb(255, 217, 102), rgb(84, 51, 0));"/>
+                        </g>
+                        <g>
+                            <g>
+                                <switch>
+                                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 658px; height: 1px; padding-top: 1319px; margin-left: 43px;">
+                                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                                <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                    <b>
+                                                        <span style="color: light-dark(rgb(64, 64, 0), rgb(190, 190, 135)); font-size: 23px;">
+                                                            7. Functional Enrichment (clusterProfiler v4.16.0)
+                                                        </span>
+                                                    </b>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </foreignObject>
+                                    <text x="372" y="1335" fill="#000000" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                                        7. Functional Enrichment (clusterProfiler v4.16.0)
+                                    </text>
+                                </switch>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-31">
+                            <g>
+                                <rect x="398.5" y="1356.5" width="268" height="84.95" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 266px; height: 1px; padding-top: 1399px; margin-left: 400px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            Over-Representation Analysis
+                                                            <br/>
+                                                            (GO BP/CC/MF &amp; KEGG)
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="533" y="1394" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="533" y="1394">
+                                                Over-Representation Analysis
+                                            </tspan>
+                                            <tspan x="533" y="1413">
+                                                (GO BP/CC/MF &amp; KEGG)
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-cell-id="lNQjz85hGxwGbOLGJjPa-32">
+                            <g>
+                                <rect x="76.5" y="1356.5" width="272" height="84.95" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <switch>
+                                        <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 270px; height: 1px; padding-top: 1399px; margin-left: 78px;">
+                                                <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                    <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                        <span style="font-size: 23px;">
+                                                            Gene Set Enrichment Analysis
+                                                            <br/>
+                                                            (gseGO and gseKEGG)
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </foreignObject>
+                                        <text x="213" y="1394" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                            <tspan x="213" y="1394">
+                                                Gene Set Enrichment Analysis
+                                            </tspan>
+                                            <tspan x="213" y="1413">
+                                                (gseGO and gseKEGG)
+                                            </tspan>
+                                        </text>
+                                    </switch>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-33">
+                        <g transform="translate(0.5,0.5)">
+                            <path d="M 1179.29 140.5 L 1409.5 257.5 L 1645.28 291.59" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            <path d="M 1655.18 293.02 L 1644.57 296.54 L 1646 286.64 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-34">
+                        <g transform="translate(0.5,0.5)">
+                            <path d="M 1522.5 358 L 1449.5 377.5 L 1240.56 421.71" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            <path d="M 1230.78 423.78 L 1239.53 416.81 L 1241.6 426.6 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-35">
+                        <g transform="translate(0.5,0.5)">
+                            <path d="M 612.34 103.26 L 849.5 177.5 L 849.5 317.5 L 849.5 407.5 L 959.5 407.5 L 979.39 408.03" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            <path d="M 989.38 408.29 L 979.25 413.03 L 979.52 403.03 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-37">
+                        <g transform="translate(0.5,0.5)">
+                            <path d="M 439.62 111 L 195.5 180.5 L 195.5 205.5 L 195.5 230.5 L 195.5 292.5 L 195.5 353.5 L 195.5 378.5 L 195.5 440.5 L 195.5 501.5 L 195.5 526.5 L 195.5 551.5 L 195.5 573.15" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            <path d="M 195.5 583.15 L 190.5 573.15 L 200.5 573.15 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-38">
+                        <g transform="translate(0.5,0.5)">
+                            <path d="M 1011.06 490.5 L 909.5 537.5 L 800.71 585.74" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            <path d="M 791.57 589.79 L 798.68 581.17 L 802.73 590.31 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-39">
+                        <g transform="translate(0.5,0.5)">
+                            <path d="M 741.5 116.72 L 629.5 180.5 L 629.5 207.5 L 629.5 227.5 L 629.5 292.5 L 629.5 357.5 L 629.5 477.5 L 627.99 575.29" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            <path d="M 627.83 585.29 L 622.99 575.21 L 632.99 575.36 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-40">
+                        <g transform="translate(0.5,0.5)">
+                            <path d="M 510 840 L 509.5 842.5 L 509.5 867.5 L 509.5 892.5 L 691.08 953.29" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            <path d="M 700.57 956.46 L 689.5 958.03 L 692.67 948.54 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-41">
+                        <g transform="translate(0.5,0.5)">
+                            <path d="M 1129.5 683 Q 1129.5 694.5 1129.5 707 Q 1129.5 719.5 1129.5 750.5 Q 1129.5 781.5 1129.5 812 Q 1129.5 842.5 1129.5 855 Q 1129.5 867.5 1129.5 880 Q 1129.5 892.5 1066.41 935.21" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="2 3" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            <path d="M 1058.13 940.81 L 1063.61 931.07 L 1069.21 939.35 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                        </g>
+                        <g>
+                            <g>
+                                <switch>
+                                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 832px; margin-left: 1130px;">
+                                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #333333; background-color: #E8E8E88D; ">
+                                                <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#333333, #cccccc); line-height: 1.2; pointer-events: all; background-color: light-dark(#E8E8E88D, #2a2a2a8D); white-space: nowrap; ">
+                                                    <span style="font-size: 19px;">
+                                                        QC Diagnostics
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </foreignObject>
+                                    <text x="1130" y="837" fill="#333333" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));">
+                                        QC Diagnostics
+                                    </text>
+                                </switch>
+                            </g>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-42">
+                        <g transform="translate(0.5,0.5)">
+                            <path d="M 1093.24 1250.52 L 1563.5 1281.5 L 1563.5 1306.5 L 1563.5 1331.5 L 1563.23 1347.15" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            <path d="M 1563.06 1357.15 L 1558.23 1347.06 L 1568.23 1347.23 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-43">
+                        <g transform="translate(0.5,0.5)">
+                            <path d="M 1093.24 1271.82 L 1238.5 1281.5 L 1238.5 1306.5 L 1238.5 1331.5 L 1238.22 1349.15" fill="none" stroke="#333333" stroke-opacity="0.7" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            <path d="M 1238.05 1359.15 L 1233.22 1349.07 L 1243.21 1349.23 Z" fill-opacity="0.7" fill="#333333" stroke="#333333" stroke-opacity="0.7" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-44">
+                        <g transform="translate(0.5,0.5)">
+                            <path d="M 903.62 1281.5 L 903.62 1306.5 L 903.62 1327.5 L 903.41 1344.15" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            <path d="M 903.29 1354.15 L 898.42 1344.09 L 908.41 1344.21 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-45">
+                        <g transform="translate(0.5,0.5)">
+                            <path d="M 771.85 1261.17 L 679.5 1347.5 L 677.48 1348.9" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            <path d="M 669.26 1354.59 L 674.63 1344.79 L 680.33 1353.01 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-46">
+                        <g transform="translate(0.5,0.5)">
+                            <path d="M 771.85 1249.56 L 19.5 1287.5 L 19.5 1390.06 L 64.23 1390.06" fill="none" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                            <path d="M 74.23 1390.06 L 64.23 1395.06 L 64.23 1385.06 Z" fill="#333333" stroke="#333333" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(51, 51, 51), rgb(204, 204, 204)); stroke: light-dark(rgb(51, 51, 51), rgb(204, 204, 204));"/>
+                        </g>
+                    </g>
+                    <g data-cell-id="lNQjz85hGxwGbOLGJjPa-3">
+                        <g>
+                            <rect x="1052.29" y="47.5" width="254" height="93" fill="#ffffff" stroke="#4a5568" stroke-width="1.5" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: light-dark(rgb(74, 85, 104), rgb(156, 166, 182));"/>
+                        </g>
+                        <g>
+                            <g>
+                                <switch>
+                                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 252px; height: 1px; padding-top: 94px; margin-left: 1053px;">
+                                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #1A202C; ">
+                                                <div style="display: inline-block; font-size: 16px; font-family: 'Trebuchet MS', Verdana, Arial, sans-serif; color: light-dark(#1A202C, #ced3de); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                    <span style="font-size: 23px;">
+                                                        Raw Paired-End FASTQ
+                                                        <br/>
+                                                        (2 FASTQ per sample, 6 samples)
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </foreignObject>
+                                    <text x="1179" y="89" fill="#1A202C" font-family="'Trebuchet MS', Verdana, Arial, sans-serif" font-size="16px" text-anchor="middle" style="fill: light-dark(rgb(26, 32, 44), rgb(206, 211, 222));">
+                                        <tspan x="1179" y="89">
+                                            Raw Paired-End FASTQ
+                                        </tspan>
+                                        <tspan x="1179" y="108">
+                                            (2 FASTQ per sample, 6 samples)
+                                        </tspan>
+                                    </text>
+                                </switch>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>

@@ -1,0 +1,1 @@
+If you see the plot, the normalized counts for all six housekeeping genes are anomalously low in Pr_1 compared to five other replicates (Pr_2, Pr_3, Ev_1, Ev_2, Ev_3). This indicates there was potentially RNA degradation or library preparation loss.

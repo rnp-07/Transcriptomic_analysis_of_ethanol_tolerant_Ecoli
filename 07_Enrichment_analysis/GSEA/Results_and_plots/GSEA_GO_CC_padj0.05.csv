@@ -1,0 +1,2 @@
+"","ID","Description","setSize","enrichmentScore","NES","pvalue","p.adjust","qvalue","rank","leading_edge","core_enrichment"
+"GO:0046930","GO:0046930","pore complex",17,0.844246516390689,1.65313496166348,0.000170364428781639,0.0311766904670399,0.0311766904670399,100,"tags=35%, list=2%, signal=35%","ompN/phoE/ompG/nanC/ompL/wza"

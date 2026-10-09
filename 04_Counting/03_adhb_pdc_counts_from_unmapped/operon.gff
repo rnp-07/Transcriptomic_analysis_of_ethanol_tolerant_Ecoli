@@ -1,0 +1,2 @@
+operon	RefSeq	gene	65	1219	.	+	.	ID=gene_adhB;Name=adhB;gbkey=Gene;gene=adhB;gene_biotype=protein_coding
+operon	RefSeq	gene	1249	2958	.	+	.	ID=gene_pdc;Name=pdc;gbkey=Gene;gene=pdc;gene_biotype=protein_coding

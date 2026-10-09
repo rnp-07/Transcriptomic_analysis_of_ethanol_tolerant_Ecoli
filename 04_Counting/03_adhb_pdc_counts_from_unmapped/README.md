@@ -1,0 +1,1 @@
+The gff provided here is a minimal, custom annotation file which includes only the required coordinates, feature type and strand orientation necessary for featureCounts to quantify the adhB and pdc genes of this operon.
